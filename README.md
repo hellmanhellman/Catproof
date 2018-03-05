@@ -10,7 +10,7 @@ Installation:
 
 1. Drag the application Catproof.app to the Applications folder.
 2. Go to System Preferences -> Security & Privacy -> Privacy -> Accessibility and add the app to the list. If you don't do this, the app won't be allowed to turn off your keyboard.
-3. Done! The app will show up as a cat icon in the top right corner.
+3. Done! Run the app and it will show up as a cat icon in the top right corner.
 
 This app is open source. Please feel free to modify it and use it and do whatever you want with it, no attribution necessary.
 
